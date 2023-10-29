@@ -1,0 +1,6 @@
+com\pages\ChatPage.class
+com\qa\factory\DriverFactory.class
+com\qa\util\ConfigReader.class
+com\qa\util\Helper.class
+com\pages\loginPage.class
+com\pages\homePage.class

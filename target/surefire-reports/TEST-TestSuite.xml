@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestSuite" time="21.837" tests="1" errors="0" skipped="0" failures="1">
+  <properties>
+    <property name="jansi.mode" value="force"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="java.vm.version" value="20.0.2+9-78"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-20\bin"/>
+    <property name="maven.multiModuleProjectDirectory" value="F:\ProjectsEclipse\CucumberProjectDriverFactoryO2"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.script" value=""/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.dir" value="F:\ProjectsEclipse\CucumberProjectDriverFactoryO2"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.runtime.version" value="20.0.2+9-78"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\ANKIT\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="stderr.encoding" value="Cp1252"/>
+    <property name="classworlds.conf" value="F:\ProjectsEclipse\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf14730078525180375349.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="stdout.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-20\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jdk-20/bin/server;C:/Program Files/Java/jdk-20/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Python311\Scripts\;C:\Python311\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Java\jdk-20\bin;F:\apache-maven-3.9.4\bin;C:\Program Files\Git\cmd;C:\Program Files\PowerShell\7\;C:\Program Files\wpkg;C:\Users\ANKIT\.cache\selenium;C:\Program Files\7-Zip;C:\Users\ANKIT\AppData\Local\Microsoft\WindowsApps;C:\Users\ANKIT\AppData\Roaming\npm;C:\Users\ANKIT\AppData\Local\Programs\Microsoft VS Code\bin;C:\Windows\system32;;."/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="64.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\ANKIT"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="20"/>
+    <property name="java.class.path" value="C:\Users\ANKIT\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.100.20230519-1558\jars\plexus-classworlds-2.6.0.jar"/>
+    <property name="user.name" value="ANKIT"/>
+    <property name="java.vm.specification.version" value="20"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B -Dstyle.color=always install"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-20"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.version" value="20.0.2"/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="F:\ProjectsEclipse\CucumberProjectDriverFactoryO2\EMBEDDED"/>
+    <property name="style.color" value="always"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2023-07-18"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="m2e.build.project.data.socket.port" value="64567"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="runScenario" classname="testRunners.MyTestRunner" time="21.837">
+    <failure message="element not interactable&#10;  (Session info: chrome=116.0.5845.188)&#10;Build info: version: &apos;4.11.0&apos;, revision: &apos;040bc5406b&apos;&#10;System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;20.0.2&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Command: [ba09aa6c9f4e30bff61489cd78e96d35, clickElement {id=5E1D4BC6D5F56DE5A7DC96D2076AB036_element_64}]&#10;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.188, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\ANKIT\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64747}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64747/devtoo..., se:cdpVersion: 116.0.5845.188, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}&#10;Element: [[ChromeDriver: chrome on windows (ba09aa6c9f4e30bff61489cd78e96d35)] -&gt; xpath: //a[@title=&apos;o2 Service Live-Chat&apos;]]&#10;Session ID: ba09aa6c9f4e30bff61489cd78e96d35" type="org.openqa.selenium.ElementNotInteractableException">org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=116.0.5845.188)
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ba09aa6c9f4e30bff61489cd78e96d35, clickElement {id=5E1D4BC6D5F56DE5A7DC96D2076AB036_element_64}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.188, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\ANKIT\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64747}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64747/devtoo..., se:cdpVersion: 116.0.5845.188, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (ba09aa6c9f4e30bff61489cd78e96d35)] -> xpath: //a[@title='o2 Service Live-Chat']]
+Session ID: ba09aa6c9f4e30bff61489cd78e96d35
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:224)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at jdk.proxy2/jdk.proxy2.$Proxy27.click(Unknown Source)
+	at com.qa.util.Helper.clickWebElement(Helper.java:22)
+	at com.pages.homePage.clickServiceChatLink(homePage.java:26)
+	at stepDefinitions.LoginPageSteps.user_clicks_on_link_o2_service_live_chat(LoginPageSteps.java:52)
+	at ✽.User clicks on link O2 Service live chat(file:///F:/ProjectsEclipse/CucumberProjectDriverFactoryO2/src/test/resources/AppFeatures/LoginPage.feature:9)
+</failure>
+    <system-out>
+@smoke
+Scenario Outline: Verifying the O2 Chat Monitoring System                                &amp#;[90m# src/test/resources/AppFeatures/LoginPage.feature:26&amp#;[0m
+  &amp#;[32mGiven &amp#;[0m&amp#;[32mUser Launch Browser and opens URL &amp#;[0m&amp#;[32m&amp#;[1m"https://www.o2online.de/chat-auswahl"&amp#;[0m         &amp#;[90m# stepDefinitions.LoginPageSteps.user_launch_browser_and_opens_url(java.lang.String)&amp#;[0m
+  &amp#;[31mWhen &amp#;[0m&amp#;[31mUser clicks on link O2 Service live chat&amp#;[0m                                          &amp#;[90m# stepDefinitions.LoginPageSteps.user_clicks_on_link_o2_service_live_chat()&amp#;[0m
+      &amp#;[31morg.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=116.0.5845.188)
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ba09aa6c9f4e30bff61489cd78e96d35, clickElement {id=5E1D4BC6D5F56DE5A7DC96D2076AB036_element_64}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.188, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\ANKIT\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64747}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64747/devtoo..., se:cdpVersion: 116.0.5845.188, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (ba09aa6c9f4e30bff61489cd78e96d35)] -&gt; xpath: //a[@title='o2 Service Live-Chat']]
+Session ID: ba09aa6c9f4e30bff61489cd78e96d35
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:224)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at jdk.proxy2/jdk.proxy2.$Proxy27.click(Unknown Source)
+	at com.qa.util.Helper.clickWebElement(Helper.java:22)
+	at com.pages.homePage.clickServiceChatLink(homePage.java:26)
+	at stepDefinitions.LoginPageSteps.user_clicks_on_link_o2_service_live_chat(LoginPageSteps.java:52)
+	at ✽.User clicks on link O2 Service live chat(file:///F:/ProjectsEclipse/CucumberProjectDriverFactoryO2/src/test/resources/AppFeatures/LoginPage.feature:9)
+&amp#;[0m
+  &amp#;[36mThen &amp#;[0m&amp#;[36mUpdate the Url &amp#;[0m&amp#;[36m&amp#;[1m"https://www.o2online.de/chat-ui/chat.html?cg=bk&amp;sn=CCT_C_SUPPORT"&amp#;[0m &amp#;[90m# stepDefinitions.LoginPageSteps.update_the_url(java.lang.String)&amp#;[0m
+  &amp#;[36mAnd &amp#;[0m&amp#;[36mclick LoginButton&amp#;[0m                                                                  &amp#;[90m# stepDefinitions.LoginPageSteps.click_login_button()&amp#;[0m
+  &amp#;[36mAnd &amp#;[0m&amp#;[36mUser enters username as &amp#;[0m&amp#;[36m&amp#;[1m"4917661590911"&amp#;[0m&amp#;[36m and password as &amp#;[0m&amp#;[36m&amp#;[1m"o2-FreeS-CCT-141076"&amp#;[0m      &amp#;[90m# stepDefinitions.LoginPageSteps.user_enters_username_as_and_password_as(java.lang.String,java.lang.String)&amp#;[0m
+  &amp#;[36mThen &amp#;[0m&amp#;[36mVerify If System is Up&amp#;[0m                                                            &amp#;[90m# stepDefinitions.LoginPageSteps.verify_if_system_is_up()&amp#;[0m
+  &amp#;[36mThen &amp#;[0m&amp#;[36mstart the chat &amp#;[0m&amp#;[36m&amp#;[1m"Hi"&amp#;[0m                                                               &amp#;[90m# stepDefinitions.LoginPageSteps.start_the_chat(java.lang.String)&amp#;[0m
+  &amp#;[36mThen &amp#;[0m&amp#;[36mVerify if Agent is Online&amp#;[0m                                                         &amp#;[90m# stepDefinitions.LoginPageSteps.verify_if_agent_is_online()&amp#;[0m
+  &amp#;[36mThen &amp#;[0m&amp#;[36mContinue Chat&amp#;[0m                                                                     &amp#;[90m# stepDefinitions.LoginPageSteps.continue_chat()&amp#;[0m
+  &amp#;[36mAnd &amp#;[0m&amp#;[36mGet Chat History&amp#;[0m                                                                   &amp#;[90m# stepDefinitions.LoginPageSteps.get_chat_history()&amp#;[0m
+  &amp#;[36mThen &amp#;[0m&amp#;[36mEnd the Chat&amp#;[0m                                                                      &amp#;[90m# stepDefinitions.LoginPageSteps.end_the_chat()&amp#;[0m
+  &amp#;[36mAnd &amp#;[0m&amp#;[36mclose the browser&amp#;[0m                                                                  &amp#;[90m# stepDefinitions.LoginPageSteps.close_the_browser()&amp#;[0m
+
+    Embedding Verifying the O2 Chat Monitoring System [image/png 120778 bytes]
+
+</system-out>
+    <system-err>SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+log4j:WARN No appenders could be found for logger (io.netty.util.internal.logging.InternalLoggerFactory).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+Sept 18, 2023 1:52:32 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 116, so returning the closest version found: 115
+</system-err>
+  </testcase>
+</testsuite>
