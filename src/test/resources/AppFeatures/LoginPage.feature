@@ -10,7 +10,7 @@ Feature: Chat Monitoring
     Then Update the Url "https://www.o2online.de/chat-ui/chat.html?cg=bk&sn=CCT_C_SUPPORT"
     
  		And click LoginButton
-    And User enters username as "4917661590911" and password as "o2-FreeS-CCT-141076"
+    And User enters username as "xxx" and password as "xxx"
     Then Verify If System is Up
     #And Click on Login   
     
